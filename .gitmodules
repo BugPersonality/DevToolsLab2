@@ -1,0 +1,6 @@
+[submodule "Dev_tools_labs"]
+	path = Dev_tools_labs
+	url = https://github.com/VanjaRo/Dev_tools_labs
+[submodule "submodule/Dev_tools_labs"]
+	path = submodule/Dev_tools_labs
+	url = https://github.com/VanjaRo/Dev_tools_labs
